@@ -1,6 +1,6 @@
 <section id="top">
   <h1>Blog</h1>
-<p>A simple blog created with EJS, JavaScript and CSS, where you can insert new posts, which are automatically added to the main page.</p>
+<p>A simple blog created with EJS, Express, bodyParser, Bootstrap, HTML, JavaScript and CSS, where you can insert new posts, which are automatically added to the main page.</p>
   </section>
 
   <h2>Go Too..</h2>
